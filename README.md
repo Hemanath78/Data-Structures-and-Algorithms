@@ -4,6 +4,6 @@ We solve different types of logical and pattern based problems using Javascript.
 
 # Problem statements
 
-1. Program that check whether a given character is an alphabet or not.
-2. Program that checks whether the given character is alphanumeric or not.
-3. 
+1. [check_alphabet_or_not.js](12th%20standard%20logics/check_alphabet_or_not.js): Program that check whether a given character is an alphabet or not.
+
+2. [check_alphanumeric_or_not.js]()
