@@ -30,7 +30,7 @@ We solve different types of logical and pattern based problems using Javascript.
 
 13. [n_multiple_of_m.js](daily_practice/logical_problems/n_multiple_of_m.js):  Write code to print if n is a multiple of m or n is not a multiple of m.
 
-14. [prime_number_or_not.js](daily_practice/logical_problems/prime_number_or_not.js)(daily_practice\logical_problems\prime_number_or_not.js): Write code to print if n is a prime Number.
+14. [prime_number_or_not.js](daily_practice/logical_problems/prime_number_or_not.js): Write code to print if n is a prime Number.
 
 15. [basic_patterns.js](daily_practice/pattern_problems/basic_patterns.js): Understanding the basic patterns.
 
